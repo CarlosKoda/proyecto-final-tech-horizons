@@ -246,7 +246,7 @@ ejemplo-dashboard/
 ### 💬 Comunidad:
 - **Stack Overflow:** Para errores específicos
 - **Streamlit Forum:** https://discuss.streamlit.io/
-- **Discord/Slack del curso:** Para ayuda inmediata
+- **Consulta a tus tutores:** Para ayuda inmediata
 
 ---
 
