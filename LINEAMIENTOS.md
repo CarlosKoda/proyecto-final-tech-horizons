@@ -230,7 +230,7 @@ st.sidebar.selectbox("Filtrar por:", opciones)
 ## 🆘 Recursos de Apoyo
 
 ### 📞 ¿Dónde Buscar Ayuda?
-- **Dudas técnicas:** Discord/Slack del curso
+- **Dudas técnicas:** Consulta tus tutores
 - **Problemas de datos:** Oficina virtual los viernes
 - **Issues de GitHub:** Para problemas específicos del proyecto
 - **Tutorías de equipo:** Agenda una sesión si tu equipo está atascado

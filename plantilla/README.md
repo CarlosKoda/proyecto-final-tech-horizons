@@ -170,7 +170,6 @@ El dashboard se abrirá automáticamente en `http://localhost:8501`
 ¿Preguntas sobre el proyecto? ¡Contáctanos!
 
 - **Correo del equipo:** [email@dominio.com]
-- **Discord/Slack:** [#nombre-proyecto]
 
 ---
 
