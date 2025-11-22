@@ -114,10 +114,9 @@ proyecto-final-tech-horizons/
 
 ## 💬 Soporte y Recursos
 
-- **🆘 Dudas técnicas:** Consulta durante las clases o en Discord/Slack
+- **🆘 Dudas técnicas:** Consulta durante las clases
 - **📚 Documentación:** Links útiles en `recursos/herramientas-utiles.md`
 - **🤝 Colaboración:** Usa GitHub Issues para coordinar con tu equipo
-- **💡 Inspiración:** Revisa proyectos exitosos de años anteriores
 
 ---
 
